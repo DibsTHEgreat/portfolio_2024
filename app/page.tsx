@@ -11,7 +11,6 @@ export default function Home() {
         <div className="w-full justify-center items-center">
             <Hero />
             <AboutMe />
-            <RecentWork />
             <Footer />
         </div>
     </main>
