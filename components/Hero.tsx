@@ -37,7 +37,7 @@ const Hero = () => {
                 Hello, I&apos;m{" "} A
             </span>{" "}
             </h1>
-            <h1 className="text-blue-100 max-w-2xl mb-4 md:text-6xl text-4xl font-extrabold pb-11">
+            <h1 className="text-blue-100 max-w-2xl mb-4 md:text-6xl text-3xl font-extrabold pb-11">
                 <TypeAnimation
                     sequence={[
                     "Software Developer",
