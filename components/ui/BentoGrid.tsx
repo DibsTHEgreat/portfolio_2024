@@ -50,26 +50,29 @@ export const BentoGridItem = ({
         background: "rgb(4,7,29)",
         backgroundColor:
           "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
+        minHeight: id === 1 ? '300px' : id === 2 ? '370px' : 'auto',
       }}
     >
-      <div className="h-full" style={id === 1 ? { minHeight: '300px' } : {}}>
-            <div className="w-full h-full absolute">
+        <div className="h-full flex flex-col">
+            <div className={`w-full ${id === 2 ? 'absolute bottom-0' : 'h-full absolute'}`}>
                 {img && (
                     <img
-                    src={img}
-                    alt={img}
-                    className={cn(imgClassName, "object-cover object-center ")}
+                        src={img}
+                        alt={img}
+                        className={cn(imgClassName, "object-cover object-center", {
+                            "w-full h-auto": id === 2
+                        })}
                     />
                 )}
             </div>
-        <div className={cn(titleClassName, "group-hover/bento:translate-x-2 transition duration-200 relative md:h-full min-h-40 flex flex-col px-5 p-5 lg:p-10")}>
+        <div className={cn(titleClassName, "group-hover/bento:translate-x-2 transition duration-200 relative md:h-full flex flex-col px-5 p-5 lg:p-10")}>
           
-          <div className="font-sans font-extralight md:text-xs lg:text-base text-sm text-[#C1C2D3]">
-            {description}
+        <div className={`font-sans text-lg lg:text-3xl max-w-96 font-bold py-2`}>
+            {title}
           </div>
 
-          <div className={`font-sans text-lg lg:text-3xl max-w-96 font-bold`}>
-            {title}
+          <div className="font-sans font-extralight lg:text-base text-sm text-white">
+            {description}
           </div>
         
         </div>
