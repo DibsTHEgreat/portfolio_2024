@@ -1,7 +1,6 @@
 import AboutMe from "@/components/AboutMe";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
-import RecentWork from "@/components/RecentWork";
 import Navbar from "@/components/Navbar";
 
 export default function Home() {
