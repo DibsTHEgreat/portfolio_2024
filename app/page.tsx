@@ -9,9 +9,8 @@ export default function Home() {
       <Navbar />
         <div className="w-full justify-center items-center">
             <Hero />
-            <AboutMe />
-            <Footer />
         </div>
+        <Footer />
     </main>
   );
 }
