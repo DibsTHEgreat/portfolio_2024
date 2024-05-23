@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.custom-height {
+  height: 150px; 
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -79,7 +83,6 @@
 }
 
 @layer utilities {
-
   .max-container {
     @apply mx-auto max-w-[1440px];
   }
