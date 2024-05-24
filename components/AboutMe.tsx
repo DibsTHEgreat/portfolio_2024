@@ -1,5 +1,6 @@
 import React from 'react' 
 import { BentoGridThirdDemo } from './BentoGridDemo'
+import { MeteorsDemo } from './MeteorsDemo'
 
 const AboutMe = () => {
   return (
@@ -13,6 +14,7 @@ const AboutMe = () => {
         About
         <span className="text-purple"> Me </span>
       </h1>
+
       <BentoGridThirdDemo />
 
     </section>
