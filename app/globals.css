@@ -154,3 +154,9 @@
 .gradient3 {
   animation: gradient3 0s forwards;
 }
+
+@media (max-width: 1100px) {
+  .cooler-button-hidden {
+    display: none;
+  }
+}
