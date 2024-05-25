@@ -10,7 +10,7 @@ const ProjectSection = () => {
         </div>
 
         <h1 className="heading pt-20 pb-10 relative">
-            See What I'm
+            See What I&apos;m
             <span className="text-purple"> Working On </span>
         </h1>
     
