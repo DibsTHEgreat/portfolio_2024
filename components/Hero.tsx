@@ -4,6 +4,7 @@ import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TypeAnimation } from "react-type-animation";
 import CoolerButton from './ui/CoolerButton';
+import DownloadCSMobile from './ui/DownloadCSMobile';
 
 const downloadCV = () => {
     const cvUrl = "/pdf/Divya.P-Resume.pdf";
@@ -68,11 +69,21 @@ const Hero = () => {
         </div>
 
         <div className="flex justify-center items-center relative">
+          <div className="hidden lg:block">
             <CoolerButton 
-                title="Download CV"
-                handleClick={downloadCV}
+              title="Download CV"
+              handleClick={downloadCV}
             />
+          </div>
+
+          <div className="block lg:hidden">
+            <DownloadCSMobile
+              title="Download CV"
+              handleClick={downloadCV}
+            />
+          </div>
         </div>
+        
     </section>
   )
 }
