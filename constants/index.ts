@@ -76,5 +76,13 @@ export const TESTIMONIAL = [
       image: "/re.svg",
       name: "React",
     },
+    {
+      image: "/blazor.svg",
+      name: "Blazor",
+    },
+    {
+      image: "/dot-net-core-7.svg",
+      name: ".NET Core",
+    },
   ];
   

@@ -115,3 +115,42 @@
     background: linear-gradient(90deg, #161a31 0%, #06091f 100%);
   }
 }
+
+@keyframes gradient1 {
+  0% {
+    background: linear-gradient(to bottom right, var(--cyan-500), var(--emerald-500));
+  }
+  100% {
+    background: linear-gradient(to bottom right, var(--cyan-500), var(--emerald-500));
+  }
+}
+
+@keyframes gradient2 {
+  0% {
+    background: linear-gradient(to bottom right, var(--pink-500), var(--indigo-500));
+  }
+  100% {
+    background: linear-gradient(to bottom right, var(--pink-500), var(--indigo-500));
+  }
+}
+
+@keyframes gradient3 {
+  0% {
+    background: linear-gradient(to bottom right, var(--orange-500), var(--yellow-500));
+  }
+  100% {
+    background: linear-gradient(to bottom right, var(--orange-500), var(--yellow-500));
+  }
+}
+
+.gradient1 {
+  animation: gradient1 0s forwards;
+}
+
+.gradient2 {
+  animation: gradient2 0s forwards;
+}
+
+.gradient3 {
+  animation: gradient3 0s forwards;
+}

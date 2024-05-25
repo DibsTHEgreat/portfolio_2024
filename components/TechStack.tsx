@@ -18,8 +18,8 @@ const TechStack = () => {
         <InfiniteMovingCardsDemo useTestimonials={true} />
 
     <h1 className="heading relative">
-        Tools I  
-        <span className="text-purple"> Utilize </span>
+        My   
+        <span className="text-purple"> Tools </span>
         &
         <span className="text-purple"> Methods </span>
     </h1>

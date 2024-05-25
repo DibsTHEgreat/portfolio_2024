@@ -2,6 +2,7 @@ import AboutMe from "@/components/AboutMe";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
+import ProjectSection from "@/components/ProjectSection";
 import TechStack from "@/components/TechStack";
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
             <Hero />
             <AboutMe />
             <TechStack />
+            <ProjectSection />
         </div>
         <Footer />
     </main>

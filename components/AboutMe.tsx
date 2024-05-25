@@ -1,6 +1,5 @@
 import React from 'react' 
 import { BentoGridThirdDemo } from './BentoGridDemo'
-import { MeteorsDemo } from './MeteorsDemo'
 
 const AboutMe = () => {
   return (
