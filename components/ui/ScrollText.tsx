@@ -47,63 +47,76 @@ export const StickyScroll = ({
   ];
 
   return (
-    <motion.div
-      className="h-[30rem] overflow-y-auto flex justify-center relative space-x-10 rounded-md p-10 "
-      ref={ref}
-    >
-      <div className="div relative flex items-start px-4">
-        <div className="max-w-2xl">
-          {content.map((item, index) => (
-            <div key={item.title + index} className="my-20">
-              <motion.h2
-                initial={{
-                  opacity: 0,
-                }}
-                animate={{
-                  opacity: activeCard === index ? 1 : 0.3,
-                }}
-                className="text-2xl font-bold"
-                style={{
-                  backgroundImage: textGradients[activeCard % textGradients.length],
-                  WebkitBackgroundClip: "text",
-                  WebkitTextFillColor: "transparent",
-                }}
-              >
-                {item.title}
-              </motion.h2>
-              <motion.p
-                initial={{
-                  opacity: 0,
-                }}
-                animate={{
-                  opacity: activeCard === index ? 1 : 0.3,
-                }}
-                className="text-kg max-w-sm mt-10"
-                style={{
-                  backgroundImage: textGradients[activeCard % textGradients.length],
-                  WebkitBackgroundClip: "text",
-                  WebkitTextFillColor: "transparent",
-                }}
-              >
-                {item.description}
-              </motion.p>
-
-              {index === content.length - 1 && (
-                    <RandomButton />
-              )}
-            </div>
-          ))}
-          <div className="h-40" />
-        </div>
-      </div>
+    <>
       <motion.div
-        className={cn(
-          "hidden lg:block h-60 w-80 rounded-md sticky top-10 overflow-hidden",
-          contentClassName
-        )}
+        className="h-[30rem] overflow-y-auto flex justify-center relative space-x-10 rounded-md p-10 no-scrollbar"
+        ref={ref}
       >
-        {content[activeCard].content ?? null}
+        <div className="div relative flex items-start px-4">
+          <div className="max-w-2xl">
+            {content.map((item, index) => (
+              <div key={item.title + index} className="my-20">
+                <motion.h2
+                  initial={{
+                    opacity: 0,
+                  }}
+                  animate={{
+                    opacity: activeCard === index ? 1 : 0.3,
+                  }}
+                  className="text-2xl font-bold"
+                  style={{
+                    backgroundImage: textGradients[activeCard % textGradients.length],
+                    WebkitBackgroundClip: "text",
+                    WebkitTextFillColor: "transparent",
+                  }}
+                >
+                  {item.title}
+                </motion.h2>
+                <motion.p
+                  initial={{
+                    opacity: 0,
+                  }}
+                  animate={{
+                    opacity: activeCard === index ? 1 : 0.3,
+                  }}
+                  className="text-kg max-w-sm mt-10"
+                  style={{
+                    backgroundImage: textGradients[activeCard % textGradients.length],
+                    WebkitBackgroundClip: "text",
+                    WebkitTextFillColor: "transparent",
+                  }}
+                >
+                  {item.description}
+                </motion.p>
+
+                {index === content.length - 1 && (
+                  <RandomButton />
+                )}
+              </div>
+            ))}
+            <div className="h-40" />
+          </div>
+        </div>
+        <motion.div
+          className={cn(
+            "hidden lg:block h-60 w-80 rounded-md sticky top-10 overflow-hidden",
+            contentClassName
+          )}
+        >
+          {content[activeCard].content ?? null}
+        </motion.div>
       </motion.div>
-    </motion.div>
+
+      <style jsx global>{`
+        .no-scrollbar::-webkit-scrollbar {
+          width: 0;
+          height: 0;
+        }
+        .no-scrollbar {
+          -ms-overflow-style: none;  /* IE and Edge */
+          scrollbar-width: none;  /* Firefox */
+        }
+      `}</style>
+    </>
   );
 };
