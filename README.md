@@ -15,7 +15,20 @@
 
 ## 💼 My Experience
 **Intern Software Developer** @ Arcurve Calgary, AB  
-Jan 2024 – Present  
+Jan 2024 – Present
+- Actively contribute to a Full-Stack Development project utilizing Blazor and .NET Core technologies.
+- Develop and maintain an internal application aimed at streamlining critical business processes.
+- Engage in Agile methodologies to ensure project efficiency and adaptability to changing requirements.
+- Take ownership of both front-end and back-end responsibilities, ensuring a cohesive integration of user interfaces and backend functionalities.
+- Collaborate with team members to brainstorm solutions, troubleshoot issues, and optimize code performance.
+- Proactively identify and implement enhancements to improve application usability and performance.
+- Demonstrate strong problem-solving skills to address technical challenges and meet project deadlines effectively.
 
 **Team-Lead** for a Client-Based Project  
-April 2024 – Present  
+April 2024 – Present
+- Lead a team of six members in the development of a Full-Stack SPA website for a client project.
+- Utilize Agile methodologies to drive project progress, foster collaboration, and adapt to evolving client needs.
+- Employ Next.js 13, TypeScript, React, and other technologies to create a dynamic and responsive client-focused platform.
+- Manage client interactions and maintain clear communication channels to understand requirements, provide updates, and address feedback effectively.
+- Coordinate team efforts, assign tasks, and ensure alignment with project timelines and goals.
+- Provide mentorship and support to team members, fostering skill development and promoting a collaborative work environment.
