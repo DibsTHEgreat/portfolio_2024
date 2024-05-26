@@ -6,7 +6,7 @@
 *Bachelor of Science & Bachelor of Management*  
 *Computer Science & General Management*  
 *Current Co-operative Education Student*  
-*Cumulative GPA: 3.47/4.0*
+*Cumulative GPA: 3.44/4.0*
 
 ## ⚙️ Tech Stack
 - **Programming Languages:** C++, C#.NET, Python, TypeScript, JavaScript, SQL, HTML5
