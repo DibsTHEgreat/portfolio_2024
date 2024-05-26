@@ -1,6 +1,6 @@
 ## 🤸 <a name="intro">Hi I'm Divya Pateliya</a>
 
-## 📋 Education
+## <a name="introduction">📋 Education </a>
 <b>The University of Lethbridge, Lethbridge</b>, AB 2020 – Present
 <b>Bachelor of Science & Bachelor of Management</b>
 <b>Computer Science & General Management</b>
