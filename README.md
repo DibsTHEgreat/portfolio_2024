@@ -33,8 +33,8 @@ April 2024 – Present
 - Coordinate team efforts, assign tasks, and ensure alignment with project timelines and goals.
 - Provide mentorship and support to team members, fostering skill development and promoting a collaborative work environment.
 
-**Unity Apprentice** @ HELP US DEFEND
-Jan 2024 – Present
+**Unity Apprentice** @ HELP US DEFEND   
+May 2022 – August 2022
 - Volunteer-based work I did over the summer to help make demos for kid-friendly games
 - Collaborated with a team to develop concepts for a game and how to implement it
 - Developed efficient networking systems for team communication
