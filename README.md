@@ -13,7 +13,7 @@
 - **Frameworks and Libraries:** Tailwind CSS, MySQL, React, Next.js, Pandas, Matplotlib, Seaborn, Sklearn, Numpy, Plotly, Blazor, .NET Core
 - **Tools and Platforms:** GitHub, Jupyter Notebook, Git, Vercel, Visual Studio/Code, Azure DevOps, Miro, Agile Methodology
 
-## 💼 My Experience
+## 💼 My Relevant Experience
 **Intern Software Developer** @ Arcurve Calgary, AB  
 Jan 2024 – Present
 - Actively contribute to a Full-Stack Development project utilizing Blazor and .NET Core technologies.
