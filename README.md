@@ -1,46 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 🤸 <a name="intro">Hi I'm Divya Pateliya</a>
+  I am a motivated Computer Science and Business Management student with a strong foundation in problem-solving, communication, and computer literacy. I have a passion for Full-stack development and am not afraid to venture into different avenues, whether it’s data science or machine learning. I am actively seeking growth opportunities and thrive on gaining practical exposure through internships and client-driven projects. My goal is to continually expand my expertise and contribute effectively to any team or organization I am part of.
 
-## Getting Started
+## <a name="introduction">📋 Education</a>
+**The University of Lethbridge**, Lethbridge, AB  2020 – Present  
+*Bachelor of Science & Bachelor of Management*  
+*Computer Science & General Management*  
+*Current Co-operative Education Student*  
+*Cumulative GPA: 3.44/4.0*
 
-First, run the development server:
+## ⚙️ Tech Stack
+- **Programming Languages:** C++, C#.NET, Python, TypeScript, JavaScript, SQL, HTML5
+- **Frameworks and Libraries:** Tailwind CSS, MySQL, React, Next.js, Pandas, Matplotlib, Seaborn, Sklearn, Numpy, Plotly, Blazor, .NET Core
+- **Tools and Platforms:** GitHub, Jupyter Notebook, Git, Vercel, Visual Studio/Code, Azure DevOps, Miro, Agile Methodology
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💼 My Relevant Experience
+**Intern Software Developer** @ Arcurve Calgary, AB  
+Jan 2024 – Present
+- Actively contribute to a Full-Stack Development project utilizing Blazor and .NET Core technologies.
+- Develop and maintain an internal application aimed at streamlining critical business processes.
+- Engage in Agile methodologies to ensure project efficiency and adaptability to changing requirements.
+- Take ownership of both front-end and back-end responsibilities, ensuring a cohesive integration of user interfaces and backend functionalities.
+- Collaborate with team members to brainstorm solutions, troubleshoot issues, and optimize code performance.
+- Proactively identify and implement enhancements to improve application usability and performance.
+- Demonstrate strong problem-solving skills to address technical challenges and meet project deadlines effectively.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Team-Lead** for a Client-Based Project  
+April 2024 – Present
+- Lead a team of six members in the development of a Full-Stack SPA website for a client project.
+- Utilize Agile methodologies to drive project progress, foster collaboration, and adapt to evolving client needs.
+- Employ Next.js 13, TypeScript, React, and other technologies to create a dynamic and responsive client-focused platform.
+- Manage client interactions and maintain clear communication channels to understand requirements, provide updates, and address feedback effectively.
+- Coordinate team efforts, assign tasks, and ensure alignment with project timelines and goals.
+- Provide mentorship and support to team members, fostering skill development and promoting a collaborative work environment.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-        <ul className="h-full gap-12 lg:flex justify-end items-end">
-            {NAV_LINKS.map((link) => (
-                <Link href={link.href} key={link.key}
-                className="regular-16 text-gray-50 flexCenter cursor-pointer pb1.5 transition-all
-                hover:font-bold">
-                    {link.label}
-                </Link>
-            ))}
-        </ul> 
+**Unity Apprentice** @ HELP US DEFEND   
+May 2022 – August 2022
+- Volunteer-based work I did over the summer to help make demos for kid-friendly games
+- Collaborated with a team to develop concepts for a game and how to implement it
+- Developed efficient networking systems for team communication
+- Focused on learning how to use C# and script objects on Unity
