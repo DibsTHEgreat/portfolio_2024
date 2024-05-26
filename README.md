@@ -34,8 +34,8 @@ April 2024 – Present
 - Provide mentorship and support to team members, fostering skill development and promoting a collaborative work environment.
 
 **Unity Apprentice** @ HELP US DEFEND
-Volunteer-based work
-May 2022 - August 2022
+Jan 2024 – Present
+- Volunteer-based work I did over the summer to help make demos for kid-friendly games
 - Collaborated with a team to develop concepts for a game and how to implement it
 - Developed efficient networking systems for team communication
 - Focused on learning how to use C# and script objects on Unity
