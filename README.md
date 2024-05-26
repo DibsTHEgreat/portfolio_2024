@@ -7,3 +7,8 @@
 *Computer Science & General Management*  
 *Current Co-operative Education Student*  
 *Cumulative GPA: 3.47/4.0*
+
+## ⚙️ Tech Stack
+- **Programming Languages:** C++, C#.NET, Python, TypeScript, JavaScript, SQL, HTML5
+- **Frameworks and Libraries:** Tailwind CSS, MySQL, Prisma, React, Next.js, Pandas, Matplotlib, Seaborn, Sklearn, Numpy, Plotly, Blazor, .NET Core
+- **Tools and Platforms:** GitHub, Jupyter Notebook, Git, Vercel, Visual Studio/Code, Azure DevOps, Miro, Agile Methodology
