@@ -14,9 +14,7 @@
 - **Tools and Platforms:** GitHub, Jupyter Notebook, Git, Vercel, Visual Studio/Code, Azure DevOps, Miro, Agile Methodology
 
 ## 💼 My Experience
-**Intern Software Developer**  
-@ Arcurve  
-Calgary, AB  
+**Intern Software Developer** @ Arcurve Calgary, AB  
 Jan 2024 – Present  
 
 **Team-Lead** for a Client-Based Project  
