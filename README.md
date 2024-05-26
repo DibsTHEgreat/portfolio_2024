@@ -32,3 +32,10 @@ April 2024 – Present
 - Manage client interactions and maintain clear communication channels to understand requirements, provide updates, and address feedback effectively.
 - Coordinate team efforts, assign tasks, and ensure alignment with project timelines and goals.
 - Provide mentorship and support to team members, fostering skill development and promoting a collaborative work environment.
+
+**Unity Apprentice** @ HELP US DEFEND
+Volunteer-based work
+May 2022 - August 2022
+- Collaborated with a team to develop concepts for a game and how to implement it
+- Developed efficient networking systems for team communication
+- Focused on learning how to use C# and script objects on Unity
