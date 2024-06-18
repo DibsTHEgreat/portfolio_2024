@@ -85,4 +85,26 @@ export const TESTIMONIAL = [
       name: ".NET Core",
     },
   ];
+
+
+  export const projectsData = [
+    {
+      title: "SPA Website",
+      description:
+        "Client-Based Project: As the team lead overseeing six members, I spearhead the development of a Full-Stack SPA website to create a dynamic client-focused platform. My work is still in progress.",
+      tags: ["React", "Next.js", "Typescript", "Tailwind"],
+      buttonTitle: "Null",
+      buttonUrl: "https://github.com/DibsTHEgreat",
+      imageUrl: "/Spa1.png",
+    },
+    {
+      title: "GitHub",
+      description:
+        "Welcome to my GitHub! Explore my repositories to see my journey through various coding challenges and practical applications.",
+      tags: ["School Projects", "Demos", "Client-Work", "LeetCode"],
+      buttonTitle: "Visit Site",
+      buttonUrl: "https://github.com/DibsTHEgreat",
+      imageUrl: "/Hope2.png",
+    },
+  ] as const;
   

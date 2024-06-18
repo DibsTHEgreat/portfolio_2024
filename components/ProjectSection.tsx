@@ -1,6 +1,5 @@
-import Image from 'next/image'
 import React from 'react'
-import { StickyScrollRevealDemo } from './ProjectScroller'
+import Projects from './Projects'
 
 const ProjectSection = () => {
   return (
@@ -13,8 +12,8 @@ const ProjectSection = () => {
             See What I&apos;m
             <span className="text-purple"> Working On </span>
         </h1>
-    
-        <StickyScrollRevealDemo />
+
+        <Projects />
 
     </section>
   )
