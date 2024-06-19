@@ -68,6 +68,7 @@ function Project({
                         group-hover:-translate-x-3
                         group-hover:-translate-y-3
                         group-hover:-rotate-2
+                        hidden sm:block
                     "
                 />
             </section>
