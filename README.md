@@ -6,7 +6,7 @@
 *Bachelor of Science & Bachelor of Management*  
 *Computer Science & General Management*  
 *Current Co-operative Education Student*  
-*Cumulative GPA: 3.44/4.0*
+*Cumulative GPA: 3.48/4.0*
 
 ## ⚙️ Tech Stack
 - **Programming Languages:** C++, C#.NET, Python, TypeScript, JavaScript, SQL, HTML5
@@ -15,7 +15,7 @@
 
 ## 💼 My Relevant Experience
 **Intern Software Developer** @ Arcurve Calgary, AB  
-Jan 2024 – Present
+Jan 2024 – Aug 2024
 - Actively contribute to a Full-Stack Development project utilizing Blazor and .NET Core technologies.
 - Develop and maintain an internal application aimed at streamlining critical business processes.
 - Engage in Agile methodologies to ensure project efficiency and adaptability to changing requirements.
