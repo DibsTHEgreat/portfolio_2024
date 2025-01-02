@@ -11,7 +11,7 @@
 ## ⚙️ Tech Stack
 - **Programming Languages:** C++, C#.NET, Python, TypeScript, JavaScript, SQL, HTML5
 - **Frameworks and Libraries:** Tailwind CSS, MySQL, React, Next.js, Pandas, Matplotlib, Seaborn, Sklearn, Numpy, Plotly, Blazor, .NET Core
-- **Tools and Platforms:** GitHub, Jupyter Notebook, Git, Vercel, Visual Studio/Code, Azure DevOps, Miro, Agile Methodology
+- **Tools and Platforms:** GitHub, Jupyter Notebook, Git, Vercel, Visual Studio/Code, Azure DevOps, Miro, Agile
 
 ## 💼 My Professional Experience
 **Intern Systems Developer** @ Canadian Natural Resources Limited Calgary, AB
