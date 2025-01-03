@@ -42,3 +42,8 @@ May 2022 – August 2022
 - Collaborated with a team to develop concepts for a game and how to implement it
 - Developed efficient networking systems for team communication
 - Focused on learning how to use C# and script objects on Unity
+
+**Co-op Ambassador** @ University of Lethbridge Lethbridge, AB                                                                             
+September 2024 – December 2024                                                                                                 
+- Actively participated in employer outreach, fostering relationships, and expanding student opportunities. 
+- Collaborated with professors to deliver impactful presentations, promoting the program during classroom visits.
