@@ -2,20 +2,24 @@
   I am a motivated Computer Science and Business Management student with a strong foundation in problem-solving, communication, and computer literacy. I have a passion for Full-stack development and am not afraid to venture into different avenues, whether it’s data science or machine learning. I am actively seeking growth opportunities and thrive on gaining practical exposure through internships and client-driven projects. My goal is to continually expand my expertise and contribute effectively to any team or organization I am part of.
 
 ## <a name="introduction">📋 Education</a>
-**The University of Lethbridge**, Lethbridge, AB.  Anticipated - Dec 2025  
+**The University of Lethbridge**, Lethbridge, AB.  Anticipated - May 2026
 *Bachelor of Science & Bachelor of Management*  
 *Computer Science & General Management*  
 *Current Co-operative Education Student*  
-*Cumulative GPA: 3.48/4.0*
+*Cumulative GPA: 3.49/4.0*
 
 ## ⚙️ Tech Stack
-- **Programming Languages:** C++, C#, Python, TypeScript, JavaScript, SQL, HTML5
-- **Frameworks and Libraries:** Tailwind CSS, MySQL, React, Next.js, Pandas, Matplotlib, Seaborn, Sklearn, Numpy, Plotly, Blazor, .NET Core
-- **Tools and Platforms:** GitHub, Jupyter Notebook, Git, Vercel, Visual Studio/Code, Azure DevOps, Miro, Agile
+- **Programming Languages:** C++, C#.NET, Python, R, TypeScript, JavaScript, SQL, HTML5
+- **Frameworks and Libraries:** React, Next.js, Blazor, .NET Core, MSSQL, EF Core, Syncfusion, MudBlazor
+- **Testing Tools & Libraries:** Playwright, NUnit, AutoFixture, Fluent Assertions
+- **Tools and Platforms:** Jupyter Notebook, Git, Vercel, Azure DevOps, Visual Studio/Code, Oracle SQL Developer
 
 ## 💼 My Professional Experience
 **Intern Systems Developer** @ Canadian Natural Resources Limited Calgary, AB
-- Incoming for Jan 2025  
+- Improved data accuracy by 20% through optimizing SQL scripts to clean 4,000+ historical records.
+- Enhanced system performance by developing new features for a Progressive Web App (PWA) using .NET and Blazor.
+- Strengthened system security by identifying and resolving software vulnerabilities.
+- Facilitated a seamless Microsoft 365 migration by assisting 100+ personnel with deployment issues.
 
 **Intern Software Developer** @ Arcurve Calgary, AB  
 Jan 2024 – Aug 2024
@@ -28,7 +32,7 @@ Jan 2024 – Aug 2024
 - Demonstrate strong problem-solving skills to address technical challenges and meet project deadlines effectively.
 
 **Team-Lead** for a Client-Based Project  
-April 2024 – Present
+January 2025 – Present
 - Lead a team of six members in the development of a Full-Stack SPA website for a client project.
 - Utilize Agile methodologies to drive project progress, foster collaboration, and adapt to evolving client needs.
 - Employ Next.js 13, TypeScript, React, and other technologies to create a dynamic and responsive client-focused platform.
@@ -45,5 +49,5 @@ May 2022 – August 2022
 
 **Co-op Ambassador** @ University of Lethbridge Lethbridge AB
 September 2024 – December 2024
-- Actively participated in employer outreach, fostering relationships, and expanding student opportunities. 
-- Collaborated with professors to deliver impactful presentations, promoting the program during classroom visits.
+- Actively participate in employer outreach, fostering relationships, and expanding student opportunities.
+- Collaborate with professors to deliver impactful presentations, promoting the Co-op program to student body.
