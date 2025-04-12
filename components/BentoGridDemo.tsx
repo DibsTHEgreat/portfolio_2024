@@ -148,8 +148,8 @@ const SkeletonThree = () => {
     >
       <div className="relative w-full h-full">
         <Image
-          src="/arcurve.png"
-          alt="arcurve"
+          src="/CNRL2.png"
+          alt="cnrl"
           layout="fill"
           objectFit="contain"
           className="rounded-lg"
@@ -260,7 +260,7 @@ const items = [
     title: "My Work Experience",
     description: (
       <span className="text-sm">
-        Currently doing an 8-month Co-op as an Intern Software Developer @ Arcurve
+        Currently doing a 6-month Co-op as an Intern Systems Developer @ Canadian Natural Resources Limited.
       </span>
     ),
     header: (
