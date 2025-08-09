@@ -260,7 +260,7 @@ const items = [
     title: "My Work Experience",
     description: (
       <span className="text-sm">
-        Currently working part-time at University of Lethbridge as a Web Designer.
+        Currently working part-time at The University of Lethbridge as a Web Designer.
       </span>
     ),
     header: (
