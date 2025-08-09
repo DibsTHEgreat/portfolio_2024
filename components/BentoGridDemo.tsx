@@ -148,7 +148,7 @@ const SkeletonThree = () => {
     >
       <div className="relative w-full h-full">
         <Image
-          src="/CNRL2.png"
+          src="/ulethbridge_logo_white.png"
           alt="cnrl"
           layout="fill"
           objectFit="contain"
@@ -260,7 +260,7 @@ const items = [
     title: "My Work Experience",
     description: (
       <span className="text-sm">
-        Currently doing a 6-month Co-op as an Intern Systems Developer @ Canadian Natural Resources Limited.
+        Currently working part-time at University of Lethbridge as a Web Designer.
       </span>
     ),
     header: (
